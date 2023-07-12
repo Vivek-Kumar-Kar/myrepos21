@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\Consolefordo\Consolefordo\bin\Debug\Consolefordo.exe.config
+C:\Users\Lenovo\source\repos\Consolefordo\Consolefordo\bin\Debug\Consolefordo.exe
+C:\Users\Lenovo\source\repos\Consolefordo\Consolefordo\bin\Debug\Consolefordo.pdb
+C:\Users\Lenovo\source\repos\Consolefordo\Consolefordo\obj\Debug\Consolefordo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Consolefordo\Consolefordo\obj\Debug\Consolefordo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Consolefordo\Consolefordo\obj\Debug\Consolefordo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Consolefordo\Consolefordo\obj\Debug\Consolefordo.exe
+C:\Users\Lenovo\source\repos\Consolefordo\Consolefordo\obj\Debug\Consolefordo.pdb
